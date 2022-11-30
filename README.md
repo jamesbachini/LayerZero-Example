@@ -30,7 +30,7 @@ Note that you will need to call the send function with some funds by putting a v
 
 I'll do an article and video at some point about cross chain communications.
 
-https://jamesbachini.com
-https://www.youtube.com/c/JamesBachini
-https://twitter.com/james_bachini
-https://bachini.substack.com
+- https://jamesbachini.com
+- https://www.youtube.com/c/JamesBachini
+- https://twitter.com/james_bachini
+- https://bachini.substack.com
