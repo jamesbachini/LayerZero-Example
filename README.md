@@ -1,4 +1,4 @@
-# LayerZeroTest
+# LayerZero Example
  
 A simple example of cross chain communications where I tested passing a string between Goerli and Optimism Goerli using LayerZero
 
