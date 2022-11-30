@@ -13,12 +13,12 @@ Copy the code into remix
 Deploy on both networks using these lzEndpoints in the constructor argument.
 
 ### LayerZero Optimism Goerli
-lzChainId:10132
-lzEndpoint:0xae92d5aD7583AD66E49A0c67BAd18F6ba52dDDc1
+- lzChainId:10132
+- lzEndpoint:0xae92d5aD7583AD66E49A0c67BAd18F6ba52dDDc1
 
 ### LayerZero Goerli
-lzChainId:10121
-lzEndpoint:0xbfD2135BFfbb0B5378b56643c2Df8a87552Bfa23
+- lzChainId:10121
+- lzEndpoint:0xbfD2135BFfbb0B5378b56643c2Df8a87552Bfa23
 
 Then use the trustAddress(address _otherContract) function to approve the other contract address on both deployed contracts.
 
